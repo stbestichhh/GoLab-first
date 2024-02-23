@@ -1,4 +1,4 @@
-GoLang Labs
-“Collaborators:”
-“Слісаренко Максим”
-"Слинько Анастасія"
+# GoLang Labs
+Collaborators:
+* Слісаренко Максим
+* Слинько Анастасія
