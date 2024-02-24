@@ -6,4 +6,7 @@ import (
 
 func main() {
     http.HandleFunc("/time", TimeHandler)
+
+port := ":8795"
+
 }
