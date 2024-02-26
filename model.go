@@ -8,5 +8,5 @@ type TimeResponse struct {
 
 func GetCurrentTime() TimeResponse {
 	currentTime := time.Now().Format(time.RFC3339)
-	return TimeResponse{ Time: currentTime }
+	return TimeResponse{Time: currentTime}
 }
